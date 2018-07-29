@@ -1,2 +1,1 @@
-Git is a version control system.
-Git is free software.
+在本地库中新建文件夹时，需要进入该文件夹路径内执行git push操作，即可把文件push到github
